@@ -1,5 +1,6 @@
 # HIFI: Heterogeneous Spiking Framework with Self-Inhibiting Neurons
 This is the official repository of HIFI, an accurate, efficient and low-latency learning framework for general AI tasks.
+![image](https://github.com/bo-wang-up/HIFI/blob/master/Overview%20of%20HIFI/overview.png)
 # License
 The code is licensed for non-commercial academic research purpose only.
 # System Requirements
