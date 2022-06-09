@@ -21,7 +21,7 @@ The code is licensed for non-commercial academic research purpose only.
    - install requirements by typing `pip install -r requirements.txt`.
 # Simulating the spiking dynamics of brain neurons
    * This part is provided in the `biological_fidelity/` document.
-   * We provide the training and testing datasets of mouse brain neurons, i.e. the .npy files in the `data/` document.
+   * We provide the training and testing datasets of mouse brain neurons, i.e. the `.npy` files in the `data/` document.
    * The demo for neurons can be run by **Jupyter Notebook**, i.e. `biological_fidelity_demo.ipynb`.
    * The code will train the surrogate neuron for different neurons, and visualize the testing results.
 #  HIFI on general AI datasets
